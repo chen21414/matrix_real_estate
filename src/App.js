@@ -1,14 +1,15 @@
-import './App.css';
-import Hero from './components/Hero';
-import Navbar from './components/Navbar';
-import GlobalStyle from './globalStyles';
+import "./App.css";
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+import { SliderData } from "./data/SliderData";
+import GlobalStyle from "./globalStyles";
 
 function App() {
   return (
     <>
-    <GlobalStyle/>
-    <Navbar/>
-    <Hero/>
+      <GlobalStyle />
+      <Navbar />
+      <Hero slides={SliderData} />
     </>
   );
 }

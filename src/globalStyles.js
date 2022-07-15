@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
         overflow-x: hidden;
     }
 
-`
+`;
 
 export default GlobalStyle;
 
