@@ -5,7 +5,7 @@ import ImageFour from "../images/venice_cannel.jpg";
 
 export const SliderData = [
   {
-    title: "Luxury Villa in Bali, Indonesia",
+    title: "House in Arcadia, California",
     price: "$4,280,000",
     path: "/homes",
     label: "View Home",
@@ -13,7 +13,7 @@ export const SliderData = [
     alt: "House",
   },
   {
-    title: "House in San Jose, Costa Rica",
+    title: "House in Ctalina Island, California",
     price: "$2,860,000",
     path: "/homes",
     label: "View Home",
@@ -21,7 +21,7 @@ export const SliderData = [
     alt: "House",
   },
   {
-    title: "House in Calabasas, California",
+    title: "Apartment in Venice Beach, California",
     price: "$8,420,000",
     path: "/homes",
     label: "View Home",
@@ -29,7 +29,7 @@ export const SliderData = [
     alt: "House",
   },
   {
-    title: "House in Houston, Texas",
+    title: "House in Venice Cannals, California",
     price: "$6,660,000",
     path: "/homes",
     label: "View Home",
